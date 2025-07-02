@@ -1,6 +1,0 @@
-[package]
-name = "Problem2906"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]
